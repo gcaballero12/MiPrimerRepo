@@ -1,2 +1,2 @@
-# MiOrimerRepo
+# MiPrimerRepo
 Repositorio Inicial GH
